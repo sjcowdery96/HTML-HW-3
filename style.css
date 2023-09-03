@@ -1,0 +1,21 @@
+/**Sets the remaining css needs (not much) for this document **/
+body {
+    text-align: center;
+  }
+  
+span {
+    display: inline-block;
+  }
+  
+#pic{
+    size: auto;
+}
+
+#pics span {
+    border: 3px solid black;
+  }
+
+#zelda{
+    width: 100px;
+    height: 100px;
+  }
